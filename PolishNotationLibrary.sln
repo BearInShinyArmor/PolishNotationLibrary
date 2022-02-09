@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolishNotationLibrary", "PolishNotationLibrary\PolishNotationLibrary.csproj", "{BFE7BFB5-5503-4486-BF31-487FB7B67C43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolishNotationLibraryTests", "PolishNotationLibraryTests\PolishNotationLibraryTests.csproj", "{142099DE-C046-4107-AB85-2851A3EAD945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemonstrationOfPolisnNotationLibrary", "DemonstrationOfPolisnNotationLibrary\DemonstrationOfPolisnNotationLibrary.csproj", "{760B5CBF-DA13-42BE-809E-E09C7B5ACADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE7BFB5-5503-4486-BF31-487FB7B67C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE7BFB5-5503-4486-BF31-487FB7B67C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE7BFB5-5503-4486-BF31-487FB7B67C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE7BFB5-5503-4486-BF31-487FB7B67C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{142099DE-C046-4107-AB85-2851A3EAD945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142099DE-C046-4107-AB85-2851A3EAD945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142099DE-C046-4107-AB85-2851A3EAD945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142099DE-C046-4107-AB85-2851A3EAD945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760B5CBF-DA13-42BE-809E-E09C7B5ACADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760B5CBF-DA13-42BE-809E-E09C7B5ACADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760B5CBF-DA13-42BE-809E-E09C7B5ACADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760B5CBF-DA13-42BE-809E-E09C7B5ACADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F6F461-D269-4E60-B726-26BC15D75367}
+	EndGlobalSection
+EndGlobal

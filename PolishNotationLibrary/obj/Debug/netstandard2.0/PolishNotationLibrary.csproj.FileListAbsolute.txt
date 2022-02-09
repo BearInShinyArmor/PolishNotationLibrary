@@ -1,0 +1,9 @@
+C:\Projects\PolishNotationLibrary\PolishNotationLibrary\bin\Debug\netstandard2.0\PolishNotationLibrary.deps.json
+C:\Projects\PolishNotationLibrary\PolishNotationLibrary\bin\Debug\netstandard2.0\PolishNotationLibrary.dll
+C:\Projects\PolishNotationLibrary\PolishNotationLibrary\bin\Debug\netstandard2.0\PolishNotationLibrary.pdb
+C:\Projects\PolishNotationLibrary\PolishNotationLibrary\obj\Debug\netstandard2.0\PolishNotationLibrary.AssemblyInfoInputs.cache
+C:\Projects\PolishNotationLibrary\PolishNotationLibrary\obj\Debug\netstandard2.0\PolishNotationLibrary.AssemblyInfo.cs
+C:\Projects\PolishNotationLibrary\PolishNotationLibrary\obj\Debug\netstandard2.0\PolishNotationLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\PolishNotationLibrary\PolishNotationLibrary\obj\Debug\netstandard2.0\PolishNotationLibrary.dll
+C:\Projects\PolishNotationLibrary\PolishNotationLibrary\obj\Debug\netstandard2.0\PolishNotationLibrary.pdb
+C:\Projects\PolishNotationLibrary\PolishNotationLibrary\obj\Debug\netstandard2.0\PolishNotationLibrary.csprojAssemblyReference.cache
